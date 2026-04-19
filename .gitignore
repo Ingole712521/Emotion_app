@@ -33,6 +33,9 @@ yarn-error.log*
 # env files (can opt-in for committing if needed)
 .env*
 
+# Local JSON config (often holds API keys)
+.chatgpt/setting.local.json
+
 # vercel
 .vercel
 

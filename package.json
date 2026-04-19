@@ -2,6 +2,7 @@
   "name": "emotion",
   "version": "0.1.0",
   "private": true,
+  "description": "Emotional support chat (OpenRouter)",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

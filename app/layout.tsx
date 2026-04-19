@@ -13,8 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Quiet space",
-  description: "A gentle place to talk things through.",
+  title: "Emotional support",
+  description:
+    "A private-feeling space to talk through feelings with gentle, non-judgmental support.",
 };
 
 export default function RootLayout({
