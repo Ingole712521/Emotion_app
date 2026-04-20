@@ -1,6 +1,6 @@
 {
     "env":{
-        "OPENROUTER_API_KEY":"sk-or-v1-8fffd15b95ca3ca6d35f9491",
+        "OPENROUTER_API_KEY":"",
         "ANTHROPIC_BASE_URL":"https://openrouter.ai/api",
         "ANTHROPIC_DEFAULT_SONNET_MODEL":"meta-llama/llama-3-8b-instruct",
         "ANTHROPIC_DEFAULT_HAIKU_MODEL":"meta-llama/llama-3-8b-instruct",
